@@ -1,4 +1,21 @@
+# Normalizing Textual Data in NLP >> NLP Pre-processing
 
+Text Normalization transforms text into a consistent format improves the quality and makes it easier to process in NLP tasks.
+
+Key steps in text normalization includes:
+
+1. Regular Expressions (RE) are sequences of characters that define search patterns.
+   
+2. Tokenization is a process of splitting text into smaller units called tokens.
+
+3. Lemmatization reduces words to their base or root form.
+
+4. Stemming reduces works to their root by removing suffixes.
+
+5. Stopword removal is a process to remove common words from the document.
+
+6. Parts of Speech (POS) Tagging assigns a part of speech to each word in sentence based on definition and context.
+   
 ![twilio_NLP](https://github.com/user-attachments/assets/82036038-d11c-483f-b824-a1d39f03e7ff)
 
 
