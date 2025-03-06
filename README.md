@@ -1,4 +1,6 @@
-![twilio_NLP.png](attachment:88405a98-ae18-434d-b01b-885d5988e6c2.png)
+
+![twilio_NLP](https://github.com/user-attachments/assets/82036038-d11c-483f-b824-a1d39f03e7ff)
+
 
 # 1. Lexical analysis
 Lexical analysis deciphers and segments language into units—or lexemes—like paragraphs, sentences, phrases, and words. NLP algorithms categorize words into parts of speech (POS) and split lexemes into morphemes—meaningful language units that you can’t further divide. 
